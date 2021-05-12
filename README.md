@@ -1,1 +1,1 @@
-# migram
+# mi-gram
